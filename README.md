@@ -1,4 +1,3 @@
 # Mapty
 
-Coming soon
-
+Coming soon...
